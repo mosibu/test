@@ -1,1 +1,0 @@
-husky is poor
