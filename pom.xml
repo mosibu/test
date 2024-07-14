@@ -14,7 +14,7 @@
     <version>0.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <names>spring-boot-2-jpa-with-hibernate-and-h2</names>
+    <name>spring-boot-2-jpa-with-hibernate-and-h2</name>
     <description>Spring Boot 2, Hibernate, JPA and H2 - Example Project</description>
 
     <properties>
